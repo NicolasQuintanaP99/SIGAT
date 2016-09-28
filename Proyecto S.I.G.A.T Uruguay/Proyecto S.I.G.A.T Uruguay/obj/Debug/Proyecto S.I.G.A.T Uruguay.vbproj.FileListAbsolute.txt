@@ -1,0 +1,128 @@
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenu.resources
+C:\Users\ABC\Documents\Visual Studio 2008\Projects\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenu.resources
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+G:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenu.resources
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+E:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Cargando.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Cargando.resources
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuRoot.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuRoot.resources
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminSys.resources
+D:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminEstabl.resources
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Cargando.resources
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminEstabl.resources
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuRoot.resources
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminEstabl.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAuxiliar.resources
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Cargando.resources
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminEstabl.resources
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAuxiliar.resources
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuRoot.resources
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminSyst.resources
+C:\Users\Usuario\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminSyst.resources
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminSyst.resources
+C:\Users\Alumno\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAuxiliar.resources
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Cargando.resources
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminEstabl.resources
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminSyst.resources
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAuxiliar.resources
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuRoot.resources
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\Alumno.ISBO-Lab4-PC\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\Administrador\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\Administrador\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\Administrador\Desktop\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\Administrador\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\Administrador\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\Administrador\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.xml
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Cargando.resources
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminEstabl.resources
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminSyst.resources
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuAuxiliar.resources
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.frmMenuRoot.resources
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Debug\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.exe
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.pdb
+C:\Users\AdminPC\Desktop\new\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Debug\Proyecto S.I.G.A.T Uruguay.xml

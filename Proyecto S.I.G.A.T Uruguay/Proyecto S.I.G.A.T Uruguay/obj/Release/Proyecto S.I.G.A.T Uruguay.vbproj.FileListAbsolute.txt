@@ -1,0 +1,16 @@
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Release\Proyecto S.I.G.A.T Uruguay.exe
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Release\Proyecto S.I.G.A.T Uruguay.pdb
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\bin\Release\Proyecto S.I.G.A.T Uruguay.xml
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\ResolveAssemblyReference.cache
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto_S.I.G.A.T_Uruguay.Cargando.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto_S.I.G.A.T_Uruguay.frmInicio.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminSys.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto_S.I.G.A.T_Uruguay.frmMenuRoot.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto_S.I.G.A.T_Uruguay.Resources.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto S.I.G.A.T Uruguay.vbproj.GenerateResource.Cache
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto S.I.G.A.T Uruguay.exe
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto S.I.G.A.T Uruguay.xml
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto S.I.G.A.T Uruguay.pdb
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminEstabl.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto_S.I.G.A.T_Uruguay.frmMenuAdminSyst.resources
+F:\Proyecto S.I.G.A.T Uruguay\Proyecto S.I.G.A.T Uruguay\obj\Release\Proyecto_S.I.G.A.T_Uruguay.frmMenuAuxiliar.resources
