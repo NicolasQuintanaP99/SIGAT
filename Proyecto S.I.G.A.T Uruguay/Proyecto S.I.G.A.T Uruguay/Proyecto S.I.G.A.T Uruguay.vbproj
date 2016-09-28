@@ -86,11 +86,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\AdminSys.vb" />
     <Compile Include="Clases\Ordeñe.vb" />
     <Compile Include="Clases\Parto.vb" />
     <Compile Include="Clases\Usuario.vb" />
     <Compile Include="Clases\UsuarioLogeado.vb" />
-    <Compile Include="Conexión\Conexion animal.vb" />
+    <Compile Include="Conexión\Conexion.vb" />
     <Compile Include="Interfaces\Cargando.Designer.vb">
       <DependentUpon>Cargando.vb</DependentUpon>
     </Compile>

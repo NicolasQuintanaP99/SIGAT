@@ -2,7 +2,6 @@
     Private _Login As String
     Private _Password As String
     Private _CI As Integer
-    Private _Cargo As String
 
     Public Property Login() As String
         Get
@@ -30,19 +29,14 @@
             _CI = value
         End Set
     End Property
-    Public Property Cargo() As String
-        Get
-            Return _Cargo
-        End Get
-        Set(ByVal value As String)
-            _Cargo = value
-        End Set
-    End Property
 
-    Public Sub Rellenar(ByVal usuario As Usuario, ByVal login As String, ByVal password As String, ByVal ci As Integer, ByVal cargo As String)
+    Public Sub Rellenar(ByVal usuario As Usuario, ByVal login As String, ByVal password As String, ByVal ci As Integer)
         usuario.Login = login
         usuario.Password = password
         usuario.CI = ci
-        usuario.Cargo = cargo
+    End Sub
+
+    Public Sub Log_In(ByVal conexion As Conexion, ByVal login As String, ByVal password As String)
+
     End Sub
 End Class

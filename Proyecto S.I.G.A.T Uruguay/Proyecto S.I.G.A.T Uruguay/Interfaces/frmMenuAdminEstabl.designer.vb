@@ -162,6 +162,47 @@ Partial Class frmMenuAdminEstabl
         Me.MspNuevo = New System.Windows.Forms.MenuStrip
         Me.TbpGestion = New System.Windows.Forms.TabPage
         Me.GpbGAcción = New System.Windows.Forms.GroupBox
+        Me.PanelGParto = New System.Windows.Forms.Panel
+        Me.LblGPBúsqueda = New System.Windows.Forms.Label
+        Me.Label41 = New System.Windows.Forms.Label
+        Me.Label40 = New System.Windows.Forms.Label
+        Me.Label39 = New System.Windows.Forms.Label
+        Me.Label38 = New System.Windows.Forms.Label
+        Me.Label37 = New System.Windows.Forms.Label
+        Me.Label35 = New System.Windows.Forms.Label
+        Me.CmbGPSexo2 = New System.Windows.Forms.ComboBox
+        Me.BtnGPNuevo = New System.Windows.Forms.Button
+        Me.BtnGPCancelar = New System.Windows.Forms.Button
+        Me.BtnGPIngresar = New System.Windows.Forms.Button
+        Me.CkbGPAborto = New System.Windows.Forms.CheckBox
+        Me.LblGPAborto = New System.Windows.Forms.Label
+        Me.TxtGPRPC2 = New System.Windows.Forms.TextBox
+        Me.TxtGPNombreCría2 = New System.Windows.Forms.TextBox
+        Me.LblGpNombreCría2 = New System.Windows.Forms.Label
+        Me.LblRPC2 = New System.Windows.Forms.Label
+        Me.LblGPSexo2 = New System.Windows.Forms.Label
+        Me.DtpGPFechaParto = New System.Windows.Forms.DateTimePicker
+        Me.TxtGPRP = New System.Windows.Forms.TextBox
+        Me.TxtGPRPC1 = New System.Windows.Forms.TextBox
+        Me.TxtGPNombreCría1 = New System.Windows.Forms.TextBox
+        Me.CmbGPSexo1 = New System.Windows.Forms.ComboBox
+        Me.CmbGPMacho = New System.Windows.Forms.ComboBox
+        Me.LblGPRPC1 = New System.Windows.Forms.Label
+        Me.LblGPNombreCría1 = New System.Windows.Forms.Label
+        Me.LblGPRP = New System.Windows.Forms.Label
+        Me.LblGPFechaParto = New System.Windows.Forms.Label
+        Me.LblGPMacho = New System.Windows.Forms.Label
+        Me.LblGPSexo1 = New System.Windows.Forms.Label
+        Me.BtnGPBúsqueda = New System.Windows.Forms.Button
+        Me.TxtGPBúsqueda = New System.Windows.Forms.TextBox
+        Me.LstGPreñadas = New System.Windows.Forms.ListBox
+        Me.GpbGOOrdeñe1 = New System.Windows.Forms.GroupBox
+        Me.BtnGONuevo2 = New System.Windows.Forms.Button
+        Me.BtnGOAñadir1 = New System.Windows.Forms.Button
+        Me.CmbGOEncargado = New System.Windows.Forms.ComboBox
+        Me.LblGOEncargado = New System.Windows.Forms.Label
+        Me.DtpGOFechaHora = New System.Windows.Forms.DateTimePicker
+        Me.LblGOFechaHora = New System.Windows.Forms.Label
         Me.GpbGOOrdeñe2 = New System.Windows.Forms.GroupBox
         Me.Label34 = New System.Windows.Forms.Label
         Me.Label33 = New System.Windows.Forms.Label
@@ -183,13 +224,6 @@ Partial Class frmMenuAdminEstabl
         Me.LsbGOOrdeñes = New System.Windows.Forms.ListBox
         Me.BtnGOAñadir2 = New System.Windows.Forms.Button
         Me.LblGORP = New System.Windows.Forms.Label
-        Me.GpbGOOrdeñe1 = New System.Windows.Forms.GroupBox
-        Me.BtnGONuevo2 = New System.Windows.Forms.Button
-        Me.BtnGOAñadir1 = New System.Windows.Forms.Button
-        Me.CmbGOEncargado = New System.Windows.Forms.ComboBox
-        Me.LblGOEncargado = New System.Windows.Forms.Label
-        Me.DtpGOFechaHora = New System.Windows.Forms.DateTimePicker
-        Me.LblGOFechaHora = New System.Windows.Forms.Label
         Me.PanelGDiagnostico = New System.Windows.Forms.Panel
         Me.Label51 = New System.Windows.Forms.Label
         Me.Label50 = New System.Windows.Forms.Label
@@ -231,40 +265,6 @@ Partial Class frmMenuAdminEstabl
         Me.LblGIMacho = New System.Windows.Forms.Label
         Me.LblGIFecha = New System.Windows.Forms.Label
         Me.LblGIRP = New System.Windows.Forms.Label
-        Me.PanelGParto = New System.Windows.Forms.Panel
-        Me.LblGPBúsqueda = New System.Windows.Forms.Label
-        Me.Label41 = New System.Windows.Forms.Label
-        Me.Label40 = New System.Windows.Forms.Label
-        Me.Label39 = New System.Windows.Forms.Label
-        Me.Label38 = New System.Windows.Forms.Label
-        Me.Label37 = New System.Windows.Forms.Label
-        Me.Label35 = New System.Windows.Forms.Label
-        Me.CmbGPSexo2 = New System.Windows.Forms.ComboBox
-        Me.BtnGPNuevo = New System.Windows.Forms.Button
-        Me.BtnGPCancelar = New System.Windows.Forms.Button
-        Me.BtnGPIngresar = New System.Windows.Forms.Button
-        Me.CkbGPAborto = New System.Windows.Forms.CheckBox
-        Me.LblGPAborto = New System.Windows.Forms.Label
-        Me.TxtGPRPC2 = New System.Windows.Forms.TextBox
-        Me.TxtGPNombreCría2 = New System.Windows.Forms.TextBox
-        Me.LblGpNombreCría2 = New System.Windows.Forms.Label
-        Me.LblRPC2 = New System.Windows.Forms.Label
-        Me.LblGPSexo2 = New System.Windows.Forms.Label
-        Me.DtpGPFechaParto = New System.Windows.Forms.DateTimePicker
-        Me.TxtGPRP = New System.Windows.Forms.TextBox
-        Me.TxtGPRPC1 = New System.Windows.Forms.TextBox
-        Me.TxtGPNombreCría1 = New System.Windows.Forms.TextBox
-        Me.CmbGPSexo1 = New System.Windows.Forms.ComboBox
-        Me.CmbGPMacho = New System.Windows.Forms.ComboBox
-        Me.LblGPRPC1 = New System.Windows.Forms.Label
-        Me.LblGPNombreCría1 = New System.Windows.Forms.Label
-        Me.LblGPRP = New System.Windows.Forms.Label
-        Me.LblGPFechaParto = New System.Windows.Forms.Label
-        Me.LblGPMacho = New System.Windows.Forms.Label
-        Me.LblGPSexo1 = New System.Windows.Forms.Label
-        Me.BtnGPBúsqueda = New System.Windows.Forms.Button
-        Me.TxtGPBúsqueda = New System.Windows.Forms.TextBox
-        Me.LstGPreñadas = New System.Windows.Forms.ListBox
         Me.GpbGestión = New System.Windows.Forms.GroupBox
         Me.BtnGDiag = New System.Windows.Forms.Button
         Me.BtnGTrat = New System.Windows.Forms.Button
@@ -346,11 +346,11 @@ Partial Class frmMenuAdminEstabl
         Me.GpbNuevo.SuspendLayout()
         Me.TbpGestion.SuspendLayout()
         Me.GpbGAcción.SuspendLayout()
-        Me.GpbGOOrdeñe2.SuspendLayout()
+        Me.PanelGParto.SuspendLayout()
         Me.GpbGOOrdeñe1.SuspendLayout()
+        Me.GpbGOOrdeñe2.SuspendLayout()
         Me.PanelGDiagnostico.SuspendLayout()
         Me.PanelGInsem.SuspendLayout()
-        Me.PanelGParto.SuspendLayout()
         Me.GpbGestión.SuspendLayout()
         Me.MspGestión.SuspendLayout()
         Me.PanelGTratar.SuspendLayout()
@@ -387,11 +387,11 @@ Partial Class frmMenuAdminEstabl
         '
         'GpbNAcción
         '
-        Me.GpbNAcción.Controls.Add(Me.PanelNAnimal)
         Me.GpbNAcción.Controls.Add(Me.PanelEGenética)
         Me.GpbNAcción.Controls.Add(Me.PanelEAnimal)
         Me.GpbNAcción.Controls.Add(Me.PanelMAnimal)
         Me.GpbNAcción.Controls.Add(Me.PanelNGenetica)
+        Me.GpbNAcción.Controls.Add(Me.PanelNAnimal)
         Me.GpbNAcción.Location = New System.Drawing.Point(189, 6)
         Me.GpbNAcción.Name = "GpbNAcción"
         Me.GpbNAcción.Size = New System.Drawing.Size(629, 389)
@@ -1804,6 +1804,426 @@ Partial Class frmMenuAdminEstabl
         Me.GpbGAcción.TabStop = False
         Me.GpbGAcción.Text = "Seleccionar acción"
         '
+        'PanelGParto
+        '
+        Me.PanelGParto.Controls.Add(Me.LblGPBúsqueda)
+        Me.PanelGParto.Controls.Add(Me.Label41)
+        Me.PanelGParto.Controls.Add(Me.Label40)
+        Me.PanelGParto.Controls.Add(Me.Label39)
+        Me.PanelGParto.Controls.Add(Me.Label38)
+        Me.PanelGParto.Controls.Add(Me.Label37)
+        Me.PanelGParto.Controls.Add(Me.Label35)
+        Me.PanelGParto.Controls.Add(Me.CmbGPSexo2)
+        Me.PanelGParto.Controls.Add(Me.BtnGPNuevo)
+        Me.PanelGParto.Controls.Add(Me.BtnGPCancelar)
+        Me.PanelGParto.Controls.Add(Me.BtnGPIngresar)
+        Me.PanelGParto.Controls.Add(Me.CkbGPAborto)
+        Me.PanelGParto.Controls.Add(Me.LblGPAborto)
+        Me.PanelGParto.Controls.Add(Me.TxtGPRPC2)
+        Me.PanelGParto.Controls.Add(Me.TxtGPNombreCría2)
+        Me.PanelGParto.Controls.Add(Me.LblGpNombreCría2)
+        Me.PanelGParto.Controls.Add(Me.LblRPC2)
+        Me.PanelGParto.Controls.Add(Me.LblGPSexo2)
+        Me.PanelGParto.Controls.Add(Me.DtpGPFechaParto)
+        Me.PanelGParto.Controls.Add(Me.TxtGPRP)
+        Me.PanelGParto.Controls.Add(Me.TxtGPRPC1)
+        Me.PanelGParto.Controls.Add(Me.TxtGPNombreCría1)
+        Me.PanelGParto.Controls.Add(Me.CmbGPSexo1)
+        Me.PanelGParto.Controls.Add(Me.CmbGPMacho)
+        Me.PanelGParto.Controls.Add(Me.LblGPRPC1)
+        Me.PanelGParto.Controls.Add(Me.LblGPNombreCría1)
+        Me.PanelGParto.Controls.Add(Me.LblGPRP)
+        Me.PanelGParto.Controls.Add(Me.LblGPFechaParto)
+        Me.PanelGParto.Controls.Add(Me.LblGPMacho)
+        Me.PanelGParto.Controls.Add(Me.LblGPSexo1)
+        Me.PanelGParto.Controls.Add(Me.BtnGPBúsqueda)
+        Me.PanelGParto.Controls.Add(Me.TxtGPBúsqueda)
+        Me.PanelGParto.Controls.Add(Me.LstGPreñadas)
+        Me.PanelGParto.Location = New System.Drawing.Point(12, 19)
+        Me.PanelGParto.Name = "PanelGParto"
+        Me.PanelGParto.Size = New System.Drawing.Size(616, 375)
+        Me.PanelGParto.TabIndex = 2
+        Me.PanelGParto.Visible = False
+        '
+        'LblGPBúsqueda
+        '
+        Me.LblGPBúsqueda.AutoSize = True
+        Me.LblGPBúsqueda.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPBúsqueda.Location = New System.Drawing.Point(17, 16)
+        Me.LblGPBúsqueda.Name = "LblGPBúsqueda"
+        Me.LblGPBúsqueda.Size = New System.Drawing.Size(205, 18)
+        Me.LblGPBúsqueda.TabIndex = 48
+        Me.LblGPBúsqueda.Text = "Seleccionar por búsqueda RP"
+        '
+        'Label41
+        '
+        Me.Label41.AutoSize = True
+        Me.Label41.ForeColor = System.Drawing.Color.Red
+        Me.Label41.Location = New System.Drawing.Point(599, 158)
+        Me.Label41.Name = "Label41"
+        Me.Label41.Size = New System.Drawing.Size(11, 13)
+        Me.Label41.TabIndex = 47
+        Me.Label41.Text = "*"
+        '
+        'Label40
+        '
+        Me.Label40.AutoSize = True
+        Me.Label40.ForeColor = System.Drawing.Color.Red
+        Me.Label40.Location = New System.Drawing.Point(299, 273)
+        Me.Label40.Name = "Label40"
+        Me.Label40.Size = New System.Drawing.Size(11, 13)
+        Me.Label40.TabIndex = 46
+        Me.Label40.Text = "*"
+        '
+        'Label39
+        '
+        Me.Label39.AutoSize = True
+        Me.Label39.ForeColor = System.Drawing.Color.Red
+        Me.Label39.Location = New System.Drawing.Point(299, 235)
+        Me.Label39.Name = "Label39"
+        Me.Label39.Size = New System.Drawing.Size(11, 13)
+        Me.Label39.TabIndex = 45
+        Me.Label39.Text = "*"
+        '
+        'Label38
+        '
+        Me.Label38.AutoSize = True
+        Me.Label38.ForeColor = System.Drawing.Color.Red
+        Me.Label38.Location = New System.Drawing.Point(299, 194)
+        Me.Label38.Name = "Label38"
+        Me.Label38.Size = New System.Drawing.Size(11, 13)
+        Me.Label38.TabIndex = 44
+        Me.Label38.Text = "*"
+        '
+        'Label37
+        '
+        Me.Label37.AutoSize = True
+        Me.Label37.ForeColor = System.Drawing.Color.Red
+        Me.Label37.Location = New System.Drawing.Point(299, 156)
+        Me.Label37.Name = "Label37"
+        Me.Label37.Size = New System.Drawing.Size(11, 13)
+        Me.Label37.TabIndex = 43
+        Me.Label37.Text = "*"
+        '
+        'Label35
+        '
+        Me.Label35.AutoSize = True
+        Me.Label35.ForeColor = System.Drawing.Color.Red
+        Me.Label35.Location = New System.Drawing.Point(299, 119)
+        Me.Label35.Name = "Label35"
+        Me.Label35.Size = New System.Drawing.Size(11, 13)
+        Me.Label35.TabIndex = 42
+        Me.Label35.Text = "*"
+        '
+        'CmbGPSexo2
+        '
+        Me.CmbGPSexo2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.CmbGPSexo2.FormattingEnabled = True
+        Me.CmbGPSexo2.Items.AddRange(New Object() {"Macho", "Hembra"})
+        Me.CmbGPSexo2.Location = New System.Drawing.Point(499, 195)
+        Me.CmbGPSexo2.Name = "CmbGPSexo2"
+        Me.CmbGPSexo2.Size = New System.Drawing.Size(100, 21)
+        Me.CmbGPSexo2.TabIndex = 39
+        '
+        'BtnGPNuevo
+        '
+        Me.BtnGPNuevo.Location = New System.Drawing.Point(110, 340)
+        Me.BtnGPNuevo.Name = "BtnGPNuevo"
+        Me.BtnGPNuevo.Size = New System.Drawing.Size(75, 23)
+        Me.BtnGPNuevo.TabIndex = 38
+        Me.BtnGPNuevo.Text = "Nuevo"
+        Me.BtnGPNuevo.UseVisualStyleBackColor = True
+        '
+        'BtnGPCancelar
+        '
+        Me.BtnGPCancelar.Location = New System.Drawing.Point(202, 340)
+        Me.BtnGPCancelar.Name = "BtnGPCancelar"
+        Me.BtnGPCancelar.Size = New System.Drawing.Size(75, 23)
+        Me.BtnGPCancelar.TabIndex = 37
+        Me.BtnGPCancelar.Text = "Cancelar"
+        Me.BtnGPCancelar.UseVisualStyleBackColor = True
+        '
+        'BtnGPIngresar
+        '
+        Me.BtnGPIngresar.Location = New System.Drawing.Point(20, 340)
+        Me.BtnGPIngresar.Name = "BtnGPIngresar"
+        Me.BtnGPIngresar.Size = New System.Drawing.Size(75, 23)
+        Me.BtnGPIngresar.TabIndex = 36
+        Me.BtnGPIngresar.Text = "Ingresar"
+        Me.BtnGPIngresar.UseVisualStyleBackColor = True
+        '
+        'CkbGPAborto
+        '
+        Me.CkbGPAborto.AutoSize = True
+        Me.CkbGPAborto.Location = New System.Drawing.Point(499, 301)
+        Me.CkbGPAborto.Name = "CkbGPAborto"
+        Me.CkbGPAborto.Size = New System.Drawing.Size(37, 17)
+        Me.CkbGPAborto.TabIndex = 35
+        Me.CkbGPAborto.Text = "Sí"
+        Me.CkbGPAborto.UseVisualStyleBackColor = True
+        '
+        'LblGPAborto
+        '
+        Me.LblGPAborto.AutoSize = True
+        Me.LblGPAborto.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPAborto.Location = New System.Drawing.Point(328, 302)
+        Me.LblGPAborto.Name = "LblGPAborto"
+        Me.LblGPAborto.Size = New System.Drawing.Size(56, 18)
+        Me.LblGPAborto.TabIndex = 34
+        Me.LblGPAborto.Text = "Aborto:"
+        '
+        'TxtGPRPC2
+        '
+        Me.TxtGPRPC2.Location = New System.Drawing.Point(499, 235)
+        Me.TxtGPRPC2.Name = "TxtGPRPC2"
+        Me.TxtGPRPC2.Size = New System.Drawing.Size(100, 20)
+        Me.TxtGPRPC2.TabIndex = 33
+        '
+        'TxtGPNombreCría2
+        '
+        Me.TxtGPNombreCría2.Location = New System.Drawing.Point(499, 271)
+        Me.TxtGPNombreCría2.Name = "TxtGPNombreCría2"
+        Me.TxtGPNombreCría2.Size = New System.Drawing.Size(100, 20)
+        Me.TxtGPNombreCría2.TabIndex = 32
+        '
+        'LblGpNombreCría2
+        '
+        Me.LblGpNombreCría2.AutoSize = True
+        Me.LblGpNombreCría2.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGpNombreCría2.Location = New System.Drawing.Point(324, 269)
+        Me.LblGpNombreCría2.Name = "LblGpNombreCría2"
+        Me.LblGpNombreCría2.Size = New System.Drawing.Size(174, 18)
+        Me.LblGpNombreCría2.TabIndex = 30
+        Me.LblGpNombreCría2.Text = "Nombre de segunda cría:"
+        '
+        'LblRPC2
+        '
+        Me.LblRPC2.AutoSize = True
+        Me.LblRPC2.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblRPC2.Location = New System.Drawing.Point(324, 233)
+        Me.LblRPC2.Name = "LblRPC2"
+        Me.LblRPC2.Size = New System.Drawing.Size(141, 18)
+        Me.LblRPC2.TabIndex = 29
+        Me.LblRPC2.Text = "RP de segunda cría:"
+        '
+        'LblGPSexo2
+        '
+        Me.LblGPSexo2.AutoSize = True
+        Me.LblGPSexo2.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPSexo2.Location = New System.Drawing.Point(324, 197)
+        Me.LblGPSexo2.Name = "LblGPSexo2"
+        Me.LblGPSexo2.Size = New System.Drawing.Size(154, 18)
+        Me.LblGPSexo2.TabIndex = 28
+        Me.LblGPSexo2.Text = "Sexo de segunda cría:"
+        '
+        'DtpGPFechaParto
+        '
+        Me.DtpGPFechaParto.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.DtpGPFechaParto.Location = New System.Drawing.Point(198, 196)
+        Me.DtpGPFechaParto.Name = "DtpGPFechaParto"
+        Me.DtpGPFechaParto.Size = New System.Drawing.Size(100, 20)
+        Me.DtpGPFechaParto.TabIndex = 27
+        '
+        'TxtGPRP
+        '
+        Me.TxtGPRP.Location = New System.Drawing.Point(198, 120)
+        Me.TxtGPRP.Name = "TxtGPRP"
+        Me.TxtGPRP.Size = New System.Drawing.Size(100, 20)
+        Me.TxtGPRP.TabIndex = 26
+        '
+        'TxtGPRPC1
+        '
+        Me.TxtGPRPC1.Location = New System.Drawing.Point(198, 275)
+        Me.TxtGPRPC1.Name = "TxtGPRPC1"
+        Me.TxtGPRPC1.Size = New System.Drawing.Size(100, 20)
+        Me.TxtGPRPC1.TabIndex = 24
+        '
+        'TxtGPNombreCría1
+        '
+        Me.TxtGPNombreCría1.Location = New System.Drawing.Point(499, 161)
+        Me.TxtGPNombreCría1.Name = "TxtGPNombreCría1"
+        Me.TxtGPNombreCría1.Size = New System.Drawing.Size(100, 20)
+        Me.TxtGPNombreCría1.TabIndex = 23
+        '
+        'CmbGPSexo1
+        '
+        Me.CmbGPSexo1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.CmbGPSexo1.FormattingEnabled = True
+        Me.CmbGPSexo1.Items.AddRange(New Object() {"Macho", "Hembra"})
+        Me.CmbGPSexo1.Location = New System.Drawing.Point(198, 235)
+        Me.CmbGPSexo1.Name = "CmbGPSexo1"
+        Me.CmbGPSexo1.Size = New System.Drawing.Size(100, 21)
+        Me.CmbGPSexo1.TabIndex = 22
+        '
+        'CmbGPMacho
+        '
+        Me.CmbGPMacho.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.CmbGPMacho.FormattingEnabled = True
+        Me.CmbGPMacho.Items.AddRange(New Object() {"<Macho1>", "<Macho2>"})
+        Me.CmbGPMacho.Location = New System.Drawing.Point(198, 156)
+        Me.CmbGPMacho.Name = "CmbGPMacho"
+        Me.CmbGPMacho.Size = New System.Drawing.Size(100, 21)
+        Me.CmbGPMacho.TabIndex = 21
+        '
+        'LblGPRPC1
+        '
+        Me.LblGPRPC1.AutoSize = True
+        Me.LblGPRPC1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPRPC1.Location = New System.Drawing.Point(17, 269)
+        Me.LblGPRPC1.Name = "LblGPRPC1"
+        Me.LblGPRPC1.Size = New System.Drawing.Size(127, 18)
+        Me.LblGPRPC1.TabIndex = 20
+        Me.LblGPRPC1.Text = "RP de primer cría:"
+        '
+        'LblGPNombreCría1
+        '
+        Me.LblGPNombreCría1.AutoSize = True
+        Me.LblGPNombreCría1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPNombreCría1.Location = New System.Drawing.Point(324, 158)
+        Me.LblGPNombreCría1.Name = "LblGPNombreCría1"
+        Me.LblGPNombreCría1.Size = New System.Drawing.Size(160, 18)
+        Me.LblGPNombreCría1.TabIndex = 19
+        Me.LblGPNombreCría1.Text = "Nombre de primer cría:"
+        '
+        'LblGPRP
+        '
+        Me.LblGPRP.AutoSize = True
+        Me.LblGPRP.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPRP.Location = New System.Drawing.Point(14, 119)
+        Me.LblGPRP.Name = "LblGPRP"
+        Me.LblGPRP.Size = New System.Drawing.Size(87, 18)
+        Me.LblGPRP.TabIndex = 18
+        Me.LblGPRP.Text = "RP hembra:"
+        '
+        'LblGPFechaParto
+        '
+        Me.LblGPFechaParto.AutoSize = True
+        Me.LblGPFechaParto.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPFechaParto.Location = New System.Drawing.Point(17, 195)
+        Me.LblGPFechaParto.Name = "LblGPFechaParto"
+        Me.LblGPFechaParto.Size = New System.Drawing.Size(111, 18)
+        Me.LblGPFechaParto.TabIndex = 17
+        Me.LblGPFechaParto.Text = "Fecha de parto:"
+        '
+        'LblGPMacho
+        '
+        Me.LblGPMacho.AutoSize = True
+        Me.LblGPMacho.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPMacho.Location = New System.Drawing.Point(14, 158)
+        Me.LblGPMacho.Name = "LblGPMacho"
+        Me.LblGPMacho.Size = New System.Drawing.Size(148, 18)
+        Me.LblGPMacho.TabIndex = 16
+        Me.LblGPMacho.Text = "Seleeccionar macho:"
+        '
+        'LblGPSexo1
+        '
+        Me.LblGPSexo1.AutoSize = True
+        Me.LblGPSexo1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGPSexo1.Location = New System.Drawing.Point(14, 235)
+        Me.LblGPSexo1.Name = "LblGPSexo1"
+        Me.LblGPSexo1.Size = New System.Drawing.Size(140, 18)
+        Me.LblGPSexo1.TabIndex = 15
+        Me.LblGPSexo1.Text = "Sexo de primer cría:"
+        '
+        'BtnGPBúsqueda
+        '
+        Me.BtnGPBúsqueda.Location = New System.Drawing.Point(126, 58)
+        Me.BtnGPBúsqueda.Name = "BtnGPBúsqueda"
+        Me.BtnGPBúsqueda.Size = New System.Drawing.Size(75, 23)
+        Me.BtnGPBúsqueda.TabIndex = 14
+        Me.BtnGPBúsqueda.Text = "Buscar"
+        Me.BtnGPBúsqueda.UseVisualStyleBackColor = True
+        '
+        'TxtGPBúsqueda
+        '
+        Me.TxtGPBúsqueda.Location = New System.Drawing.Point(20, 60)
+        Me.TxtGPBúsqueda.Name = "TxtGPBúsqueda"
+        Me.TxtGPBúsqueda.Size = New System.Drawing.Size(100, 20)
+        Me.TxtGPBúsqueda.TabIndex = 13
+        '
+        'LstGPreñadas
+        '
+        Me.LstGPreñadas.FormattingEnabled = True
+        Me.LstGPreñadas.Items.AddRange(New Object() {"<Vaca preñada1>", "<Vaca preñada2>", "<Vaca preñada3>"})
+        Me.LstGPreñadas.Location = New System.Drawing.Point(319, 13)
+        Me.LstGPreñadas.Name = "LstGPreñadas"
+        Me.LstGPreñadas.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.LstGPreñadas.ScrollAlwaysVisible = True
+        Me.LstGPreñadas.Size = New System.Drawing.Size(285, 134)
+        Me.LstGPreñadas.TabIndex = 9
+        Me.LstGPreñadas.TabStop = False
+        '
+        'GpbGOOrdeñe1
+        '
+        Me.GpbGOOrdeñe1.Controls.Add(Me.BtnGONuevo2)
+        Me.GpbGOOrdeñe1.Controls.Add(Me.BtnGOAñadir1)
+        Me.GpbGOOrdeñe1.Controls.Add(Me.CmbGOEncargado)
+        Me.GpbGOOrdeñe1.Controls.Add(Me.LblGOEncargado)
+        Me.GpbGOOrdeñe1.Controls.Add(Me.DtpGOFechaHora)
+        Me.GpbGOOrdeñe1.Controls.Add(Me.LblGOFechaHora)
+        Me.GpbGOOrdeñe1.Location = New System.Drawing.Point(6, 19)
+        Me.GpbGOOrdeñe1.Name = "GpbGOOrdeñe1"
+        Me.GpbGOOrdeñe1.Size = New System.Drawing.Size(310, 363)
+        Me.GpbGOOrdeñe1.TabIndex = 0
+        Me.GpbGOOrdeñe1.TabStop = False
+        Me.GpbGOOrdeñe1.Text = "Añadir evento de ordeñe"
+        Me.GpbGOOrdeñe1.Visible = False
+        '
+        'BtnGONuevo2
+        '
+        Me.BtnGONuevo2.Location = New System.Drawing.Point(87, 334)
+        Me.BtnGONuevo2.Name = "BtnGONuevo2"
+        Me.BtnGONuevo2.Size = New System.Drawing.Size(75, 23)
+        Me.BtnGONuevo2.TabIndex = 7
+        Me.BtnGONuevo2.Text = "Nuevo"
+        Me.BtnGONuevo2.UseVisualStyleBackColor = True
+        '
+        'BtnGOAñadir1
+        '
+        Me.BtnGOAñadir1.Location = New System.Drawing.Point(6, 334)
+        Me.BtnGOAñadir1.Name = "BtnGOAñadir1"
+        Me.BtnGOAñadir1.Size = New System.Drawing.Size(75, 23)
+        Me.BtnGOAñadir1.TabIndex = 5
+        Me.BtnGOAñadir1.Text = "Añadir"
+        Me.BtnGOAñadir1.UseVisualStyleBackColor = True
+        '
+        'CmbGOEncargado
+        '
+        Me.CmbGOEncargado.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.CmbGOEncargado.FormattingEnabled = True
+        Me.CmbGOEncargado.Items.AddRange(New Object() {"<Auxiliares>"})
+        Me.CmbGOEncargado.Location = New System.Drawing.Point(26, 179)
+        Me.CmbGOEncargado.Name = "CmbGOEncargado"
+        Me.CmbGOEncargado.Size = New System.Drawing.Size(121, 21)
+        Me.CmbGOEncargado.TabIndex = 4
+        '
+        'LblGOEncargado
+        '
+        Me.LblGOEncargado.AutoSize = True
+        Me.LblGOEncargado.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGOEncargado.Location = New System.Drawing.Point(23, 137)
+        Me.LblGOEncargado.Name = "LblGOEncargado"
+        Me.LblGOEncargado.Size = New System.Drawing.Size(84, 18)
+        Me.LblGOEncargado.TabIndex = 3
+        Me.LblGOEncargado.Text = "Encargado:"
+        '
+        'DtpGOFechaHora
+        '
+        Me.DtpGOFechaHora.Location = New System.Drawing.Point(26, 67)
+        Me.DtpGOFechaHora.Name = "DtpGOFechaHora"
+        Me.DtpGOFechaHora.Size = New System.Drawing.Size(200, 20)
+        Me.DtpGOFechaHora.TabIndex = 2
+        '
+        'LblGOFechaHora
+        '
+        Me.LblGOFechaHora.AutoSize = True
+        Me.LblGOFechaHora.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblGOFechaHora.Location = New System.Drawing.Point(23, 32)
+        Me.LblGOFechaHora.Name = "LblGOFechaHora"
+        Me.LblGOFechaHora.Size = New System.Drawing.Size(98, 18)
+        Me.LblGOFechaHora.TabIndex = 1
+        Me.LblGOFechaHora.Text = "Fecha y hora:"
+        '
         'GpbGOOrdeñe2
         '
         Me.GpbGOOrdeñe2.Controls.Add(Me.Label34)
@@ -2017,77 +2437,6 @@ Partial Class frmMenuAdminEstabl
         Me.LblGORP.Size = New System.Drawing.Size(80, 18)
         Me.LblGORP.TabIndex = 9
         Me.LblGORP.Text = "RP animal:"
-        '
-        'GpbGOOrdeñe1
-        '
-        Me.GpbGOOrdeñe1.Controls.Add(Me.BtnGONuevo2)
-        Me.GpbGOOrdeñe1.Controls.Add(Me.BtnGOAñadir1)
-        Me.GpbGOOrdeñe1.Controls.Add(Me.CmbGOEncargado)
-        Me.GpbGOOrdeñe1.Controls.Add(Me.LblGOEncargado)
-        Me.GpbGOOrdeñe1.Controls.Add(Me.DtpGOFechaHora)
-        Me.GpbGOOrdeñe1.Controls.Add(Me.LblGOFechaHora)
-        Me.GpbGOOrdeñe1.Location = New System.Drawing.Point(6, 19)
-        Me.GpbGOOrdeñe1.Name = "GpbGOOrdeñe1"
-        Me.GpbGOOrdeñe1.Size = New System.Drawing.Size(310, 363)
-        Me.GpbGOOrdeñe1.TabIndex = 0
-        Me.GpbGOOrdeñe1.TabStop = False
-        Me.GpbGOOrdeñe1.Text = "Añadir evento de ordeñe"
-        Me.GpbGOOrdeñe1.Visible = False
-        '
-        'BtnGONuevo2
-        '
-        Me.BtnGONuevo2.Location = New System.Drawing.Point(87, 334)
-        Me.BtnGONuevo2.Name = "BtnGONuevo2"
-        Me.BtnGONuevo2.Size = New System.Drawing.Size(75, 23)
-        Me.BtnGONuevo2.TabIndex = 7
-        Me.BtnGONuevo2.Text = "Nuevo"
-        Me.BtnGONuevo2.UseVisualStyleBackColor = True
-        '
-        'BtnGOAñadir1
-        '
-        Me.BtnGOAñadir1.Location = New System.Drawing.Point(6, 334)
-        Me.BtnGOAñadir1.Name = "BtnGOAñadir1"
-        Me.BtnGOAñadir1.Size = New System.Drawing.Size(75, 23)
-        Me.BtnGOAñadir1.TabIndex = 5
-        Me.BtnGOAñadir1.Text = "Añadir"
-        Me.BtnGOAñadir1.UseVisualStyleBackColor = True
-        '
-        'CmbGOEncargado
-        '
-        Me.CmbGOEncargado.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CmbGOEncargado.FormattingEnabled = True
-        Me.CmbGOEncargado.Items.AddRange(New Object() {"<Auxiliares>"})
-        Me.CmbGOEncargado.Location = New System.Drawing.Point(26, 179)
-        Me.CmbGOEncargado.Name = "CmbGOEncargado"
-        Me.CmbGOEncargado.Size = New System.Drawing.Size(121, 21)
-        Me.CmbGOEncargado.TabIndex = 4
-        '
-        'LblGOEncargado
-        '
-        Me.LblGOEncargado.AutoSize = True
-        Me.LblGOEncargado.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGOEncargado.Location = New System.Drawing.Point(23, 137)
-        Me.LblGOEncargado.Name = "LblGOEncargado"
-        Me.LblGOEncargado.Size = New System.Drawing.Size(84, 18)
-        Me.LblGOEncargado.TabIndex = 3
-        Me.LblGOEncargado.Text = "Encargado:"
-        '
-        'DtpGOFechaHora
-        '
-        Me.DtpGOFechaHora.Location = New System.Drawing.Point(26, 67)
-        Me.DtpGOFechaHora.Name = "DtpGOFechaHora"
-        Me.DtpGOFechaHora.Size = New System.Drawing.Size(200, 20)
-        Me.DtpGOFechaHora.TabIndex = 2
-        '
-        'LblGOFechaHora
-        '
-        Me.LblGOFechaHora.AutoSize = True
-        Me.LblGOFechaHora.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGOFechaHora.Location = New System.Drawing.Point(23, 32)
-        Me.LblGOFechaHora.Name = "LblGOFechaHora"
-        Me.LblGOFechaHora.Size = New System.Drawing.Size(98, 18)
-        Me.LblGOFechaHora.TabIndex = 1
-        Me.LblGOFechaHora.Text = "Fecha y hora:"
         '
         'PanelGDiagnostico
         '
@@ -2513,355 +2862,6 @@ Partial Class frmMenuAdminEstabl
         Me.LblGIRP.Size = New System.Drawing.Size(87, 18)
         Me.LblGIRP.TabIndex = 2
         Me.LblGIRP.Text = "RP hembra:"
-        '
-        'PanelGParto
-        '
-        Me.PanelGParto.Controls.Add(Me.LblGPBúsqueda)
-        Me.PanelGParto.Controls.Add(Me.Label41)
-        Me.PanelGParto.Controls.Add(Me.Label40)
-        Me.PanelGParto.Controls.Add(Me.Label39)
-        Me.PanelGParto.Controls.Add(Me.Label38)
-        Me.PanelGParto.Controls.Add(Me.Label37)
-        Me.PanelGParto.Controls.Add(Me.Label35)
-        Me.PanelGParto.Controls.Add(Me.CmbGPSexo2)
-        Me.PanelGParto.Controls.Add(Me.BtnGPNuevo)
-        Me.PanelGParto.Controls.Add(Me.BtnGPCancelar)
-        Me.PanelGParto.Controls.Add(Me.BtnGPIngresar)
-        Me.PanelGParto.Controls.Add(Me.CkbGPAborto)
-        Me.PanelGParto.Controls.Add(Me.LblGPAborto)
-        Me.PanelGParto.Controls.Add(Me.TxtGPRPC2)
-        Me.PanelGParto.Controls.Add(Me.TxtGPNombreCría2)
-        Me.PanelGParto.Controls.Add(Me.LblGpNombreCría2)
-        Me.PanelGParto.Controls.Add(Me.LblRPC2)
-        Me.PanelGParto.Controls.Add(Me.LblGPSexo2)
-        Me.PanelGParto.Controls.Add(Me.DtpGPFechaParto)
-        Me.PanelGParto.Controls.Add(Me.TxtGPRP)
-        Me.PanelGParto.Controls.Add(Me.TxtGPRPC1)
-        Me.PanelGParto.Controls.Add(Me.TxtGPNombreCría1)
-        Me.PanelGParto.Controls.Add(Me.CmbGPSexo1)
-        Me.PanelGParto.Controls.Add(Me.CmbGPMacho)
-        Me.PanelGParto.Controls.Add(Me.LblGPRPC1)
-        Me.PanelGParto.Controls.Add(Me.LblGPNombreCría1)
-        Me.PanelGParto.Controls.Add(Me.LblGPRP)
-        Me.PanelGParto.Controls.Add(Me.LblGPFechaParto)
-        Me.PanelGParto.Controls.Add(Me.LblGPMacho)
-        Me.PanelGParto.Controls.Add(Me.LblGPSexo1)
-        Me.PanelGParto.Controls.Add(Me.BtnGPBúsqueda)
-        Me.PanelGParto.Controls.Add(Me.TxtGPBúsqueda)
-        Me.PanelGParto.Controls.Add(Me.LstGPreñadas)
-        Me.PanelGParto.Location = New System.Drawing.Point(12, 19)
-        Me.PanelGParto.Name = "PanelGParto"
-        Me.PanelGParto.Size = New System.Drawing.Size(616, 375)
-        Me.PanelGParto.TabIndex = 2
-        Me.PanelGParto.Visible = False
-        '
-        'LblGPBúsqueda
-        '
-        Me.LblGPBúsqueda.AutoSize = True
-        Me.LblGPBúsqueda.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPBúsqueda.Location = New System.Drawing.Point(17, 16)
-        Me.LblGPBúsqueda.Name = "LblGPBúsqueda"
-        Me.LblGPBúsqueda.Size = New System.Drawing.Size(205, 18)
-        Me.LblGPBúsqueda.TabIndex = 48
-        Me.LblGPBúsqueda.Text = "Seleccionar por búsqueda RP"
-        '
-        'Label41
-        '
-        Me.Label41.AutoSize = True
-        Me.Label41.ForeColor = System.Drawing.Color.Red
-        Me.Label41.Location = New System.Drawing.Point(599, 158)
-        Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(11, 13)
-        Me.Label41.TabIndex = 47
-        Me.Label41.Text = "*"
-        '
-        'Label40
-        '
-        Me.Label40.AutoSize = True
-        Me.Label40.ForeColor = System.Drawing.Color.Red
-        Me.Label40.Location = New System.Drawing.Point(299, 273)
-        Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(11, 13)
-        Me.Label40.TabIndex = 46
-        Me.Label40.Text = "*"
-        '
-        'Label39
-        '
-        Me.Label39.AutoSize = True
-        Me.Label39.ForeColor = System.Drawing.Color.Red
-        Me.Label39.Location = New System.Drawing.Point(299, 235)
-        Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(11, 13)
-        Me.Label39.TabIndex = 45
-        Me.Label39.Text = "*"
-        '
-        'Label38
-        '
-        Me.Label38.AutoSize = True
-        Me.Label38.ForeColor = System.Drawing.Color.Red
-        Me.Label38.Location = New System.Drawing.Point(299, 194)
-        Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(11, 13)
-        Me.Label38.TabIndex = 44
-        Me.Label38.Text = "*"
-        '
-        'Label37
-        '
-        Me.Label37.AutoSize = True
-        Me.Label37.ForeColor = System.Drawing.Color.Red
-        Me.Label37.Location = New System.Drawing.Point(299, 156)
-        Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(11, 13)
-        Me.Label37.TabIndex = 43
-        Me.Label37.Text = "*"
-        '
-        'Label35
-        '
-        Me.Label35.AutoSize = True
-        Me.Label35.ForeColor = System.Drawing.Color.Red
-        Me.Label35.Location = New System.Drawing.Point(299, 119)
-        Me.Label35.Name = "Label35"
-        Me.Label35.Size = New System.Drawing.Size(11, 13)
-        Me.Label35.TabIndex = 42
-        Me.Label35.Text = "*"
-        '
-        'CmbGPSexo2
-        '
-        Me.CmbGPSexo2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CmbGPSexo2.FormattingEnabled = True
-        Me.CmbGPSexo2.Items.AddRange(New Object() {"Macho", "Hembra"})
-        Me.CmbGPSexo2.Location = New System.Drawing.Point(499, 195)
-        Me.CmbGPSexo2.Name = "CmbGPSexo2"
-        Me.CmbGPSexo2.Size = New System.Drawing.Size(100, 21)
-        Me.CmbGPSexo2.TabIndex = 39
-        '
-        'BtnGPNuevo
-        '
-        Me.BtnGPNuevo.Location = New System.Drawing.Point(110, 340)
-        Me.BtnGPNuevo.Name = "BtnGPNuevo"
-        Me.BtnGPNuevo.Size = New System.Drawing.Size(75, 23)
-        Me.BtnGPNuevo.TabIndex = 38
-        Me.BtnGPNuevo.Text = "Nuevo"
-        Me.BtnGPNuevo.UseVisualStyleBackColor = True
-        '
-        'BtnGPCancelar
-        '
-        Me.BtnGPCancelar.Location = New System.Drawing.Point(202, 340)
-        Me.BtnGPCancelar.Name = "BtnGPCancelar"
-        Me.BtnGPCancelar.Size = New System.Drawing.Size(75, 23)
-        Me.BtnGPCancelar.TabIndex = 37
-        Me.BtnGPCancelar.Text = "Cancelar"
-        Me.BtnGPCancelar.UseVisualStyleBackColor = True
-        '
-        'BtnGPIngresar
-        '
-        Me.BtnGPIngresar.Location = New System.Drawing.Point(20, 340)
-        Me.BtnGPIngresar.Name = "BtnGPIngresar"
-        Me.BtnGPIngresar.Size = New System.Drawing.Size(75, 23)
-        Me.BtnGPIngresar.TabIndex = 36
-        Me.BtnGPIngresar.Text = "Ingresar"
-        Me.BtnGPIngresar.UseVisualStyleBackColor = True
-        '
-        'CkbGPAborto
-        '
-        Me.CkbGPAborto.AutoSize = True
-        Me.CkbGPAborto.Location = New System.Drawing.Point(499, 301)
-        Me.CkbGPAborto.Name = "CkbGPAborto"
-        Me.CkbGPAborto.Size = New System.Drawing.Size(37, 17)
-        Me.CkbGPAborto.TabIndex = 35
-        Me.CkbGPAborto.Text = "Sí"
-        Me.CkbGPAborto.UseVisualStyleBackColor = True
-        '
-        'LblGPAborto
-        '
-        Me.LblGPAborto.AutoSize = True
-        Me.LblGPAborto.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPAborto.Location = New System.Drawing.Point(328, 302)
-        Me.LblGPAborto.Name = "LblGPAborto"
-        Me.LblGPAborto.Size = New System.Drawing.Size(56, 18)
-        Me.LblGPAborto.TabIndex = 34
-        Me.LblGPAborto.Text = "Aborto:"
-        '
-        'TxtGPRPC2
-        '
-        Me.TxtGPRPC2.Location = New System.Drawing.Point(499, 235)
-        Me.TxtGPRPC2.Name = "TxtGPRPC2"
-        Me.TxtGPRPC2.Size = New System.Drawing.Size(100, 20)
-        Me.TxtGPRPC2.TabIndex = 33
-        '
-        'TxtGPNombreCría2
-        '
-        Me.TxtGPNombreCría2.Location = New System.Drawing.Point(499, 271)
-        Me.TxtGPNombreCría2.Name = "TxtGPNombreCría2"
-        Me.TxtGPNombreCría2.Size = New System.Drawing.Size(100, 20)
-        Me.TxtGPNombreCría2.TabIndex = 32
-        '
-        'LblGpNombreCría2
-        '
-        Me.LblGpNombreCría2.AutoSize = True
-        Me.LblGpNombreCría2.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGpNombreCría2.Location = New System.Drawing.Point(324, 269)
-        Me.LblGpNombreCría2.Name = "LblGpNombreCría2"
-        Me.LblGpNombreCría2.Size = New System.Drawing.Size(174, 18)
-        Me.LblGpNombreCría2.TabIndex = 30
-        Me.LblGpNombreCría2.Text = "Nombre de segunda cría:"
-        '
-        'LblRPC2
-        '
-        Me.LblRPC2.AutoSize = True
-        Me.LblRPC2.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblRPC2.Location = New System.Drawing.Point(324, 233)
-        Me.LblRPC2.Name = "LblRPC2"
-        Me.LblRPC2.Size = New System.Drawing.Size(141, 18)
-        Me.LblRPC2.TabIndex = 29
-        Me.LblRPC2.Text = "RP de segunda cría:"
-        '
-        'LblGPSexo2
-        '
-        Me.LblGPSexo2.AutoSize = True
-        Me.LblGPSexo2.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPSexo2.Location = New System.Drawing.Point(324, 197)
-        Me.LblGPSexo2.Name = "LblGPSexo2"
-        Me.LblGPSexo2.Size = New System.Drawing.Size(154, 18)
-        Me.LblGPSexo2.TabIndex = 28
-        Me.LblGPSexo2.Text = "Sexo de segunda cría:"
-        '
-        'DtpGPFechaParto
-        '
-        Me.DtpGPFechaParto.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.DtpGPFechaParto.Location = New System.Drawing.Point(198, 196)
-        Me.DtpGPFechaParto.Name = "DtpGPFechaParto"
-        Me.DtpGPFechaParto.Size = New System.Drawing.Size(100, 20)
-        Me.DtpGPFechaParto.TabIndex = 27
-        '
-        'TxtGPRP
-        '
-        Me.TxtGPRP.Location = New System.Drawing.Point(198, 120)
-        Me.TxtGPRP.Name = "TxtGPRP"
-        Me.TxtGPRP.Size = New System.Drawing.Size(100, 20)
-        Me.TxtGPRP.TabIndex = 26
-        '
-        'TxtGPRPC1
-        '
-        Me.TxtGPRPC1.Location = New System.Drawing.Point(198, 275)
-        Me.TxtGPRPC1.Name = "TxtGPRPC1"
-        Me.TxtGPRPC1.Size = New System.Drawing.Size(100, 20)
-        Me.TxtGPRPC1.TabIndex = 24
-        '
-        'TxtGPNombreCría1
-        '
-        Me.TxtGPNombreCría1.Location = New System.Drawing.Point(499, 161)
-        Me.TxtGPNombreCría1.Name = "TxtGPNombreCría1"
-        Me.TxtGPNombreCría1.Size = New System.Drawing.Size(100, 20)
-        Me.TxtGPNombreCría1.TabIndex = 23
-        '
-        'CmbGPSexo1
-        '
-        Me.CmbGPSexo1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CmbGPSexo1.FormattingEnabled = True
-        Me.CmbGPSexo1.Items.AddRange(New Object() {"Macho", "Hembra"})
-        Me.CmbGPSexo1.Location = New System.Drawing.Point(198, 235)
-        Me.CmbGPSexo1.Name = "CmbGPSexo1"
-        Me.CmbGPSexo1.Size = New System.Drawing.Size(100, 21)
-        Me.CmbGPSexo1.TabIndex = 22
-        '
-        'CmbGPMacho
-        '
-        Me.CmbGPMacho.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CmbGPMacho.FormattingEnabled = True
-        Me.CmbGPMacho.Items.AddRange(New Object() {"<Macho1>", "<Macho2>"})
-        Me.CmbGPMacho.Location = New System.Drawing.Point(198, 156)
-        Me.CmbGPMacho.Name = "CmbGPMacho"
-        Me.CmbGPMacho.Size = New System.Drawing.Size(100, 21)
-        Me.CmbGPMacho.TabIndex = 21
-        '
-        'LblGPRPC1
-        '
-        Me.LblGPRPC1.AutoSize = True
-        Me.LblGPRPC1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPRPC1.Location = New System.Drawing.Point(17, 269)
-        Me.LblGPRPC1.Name = "LblGPRPC1"
-        Me.LblGPRPC1.Size = New System.Drawing.Size(127, 18)
-        Me.LblGPRPC1.TabIndex = 20
-        Me.LblGPRPC1.Text = "RP de primer cría:"
-        '
-        'LblGPNombreCría1
-        '
-        Me.LblGPNombreCría1.AutoSize = True
-        Me.LblGPNombreCría1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPNombreCría1.Location = New System.Drawing.Point(324, 158)
-        Me.LblGPNombreCría1.Name = "LblGPNombreCría1"
-        Me.LblGPNombreCría1.Size = New System.Drawing.Size(160, 18)
-        Me.LblGPNombreCría1.TabIndex = 19
-        Me.LblGPNombreCría1.Text = "Nombre de primer cría:"
-        '
-        'LblGPRP
-        '
-        Me.LblGPRP.AutoSize = True
-        Me.LblGPRP.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPRP.Location = New System.Drawing.Point(14, 119)
-        Me.LblGPRP.Name = "LblGPRP"
-        Me.LblGPRP.Size = New System.Drawing.Size(87, 18)
-        Me.LblGPRP.TabIndex = 18
-        Me.LblGPRP.Text = "RP hembra:"
-        '
-        'LblGPFechaParto
-        '
-        Me.LblGPFechaParto.AutoSize = True
-        Me.LblGPFechaParto.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPFechaParto.Location = New System.Drawing.Point(17, 195)
-        Me.LblGPFechaParto.Name = "LblGPFechaParto"
-        Me.LblGPFechaParto.Size = New System.Drawing.Size(111, 18)
-        Me.LblGPFechaParto.TabIndex = 17
-        Me.LblGPFechaParto.Text = "Fecha de parto:"
-        '
-        'LblGPMacho
-        '
-        Me.LblGPMacho.AutoSize = True
-        Me.LblGPMacho.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPMacho.Location = New System.Drawing.Point(14, 158)
-        Me.LblGPMacho.Name = "LblGPMacho"
-        Me.LblGPMacho.Size = New System.Drawing.Size(148, 18)
-        Me.LblGPMacho.TabIndex = 16
-        Me.LblGPMacho.Text = "Seleeccionar macho:"
-        '
-        'LblGPSexo1
-        '
-        Me.LblGPSexo1.AutoSize = True
-        Me.LblGPSexo1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LblGPSexo1.Location = New System.Drawing.Point(14, 235)
-        Me.LblGPSexo1.Name = "LblGPSexo1"
-        Me.LblGPSexo1.Size = New System.Drawing.Size(140, 18)
-        Me.LblGPSexo1.TabIndex = 15
-        Me.LblGPSexo1.Text = "Sexo de primer cría:"
-        '
-        'BtnGPBúsqueda
-        '
-        Me.BtnGPBúsqueda.Location = New System.Drawing.Point(126, 58)
-        Me.BtnGPBúsqueda.Name = "BtnGPBúsqueda"
-        Me.BtnGPBúsqueda.Size = New System.Drawing.Size(75, 23)
-        Me.BtnGPBúsqueda.TabIndex = 14
-        Me.BtnGPBúsqueda.Text = "Buscar"
-        Me.BtnGPBúsqueda.UseVisualStyleBackColor = True
-        '
-        'TxtGPBúsqueda
-        '
-        Me.TxtGPBúsqueda.Location = New System.Drawing.Point(20, 60)
-        Me.TxtGPBúsqueda.Name = "TxtGPBúsqueda"
-        Me.TxtGPBúsqueda.Size = New System.Drawing.Size(100, 20)
-        Me.TxtGPBúsqueda.TabIndex = 13
-        '
-        'LstGPreñadas
-        '
-        Me.LstGPreñadas.FormattingEnabled = True
-        Me.LstGPreñadas.Items.AddRange(New Object() {"<Vaca preñada1>", "<Vaca preñada2>", "<Vaca preñada3>"})
-        Me.LstGPreñadas.Location = New System.Drawing.Point(319, 13)
-        Me.LstGPreñadas.Name = "LstGPreñadas"
-        Me.LstGPreñadas.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.LstGPreñadas.ScrollAlwaysVisible = True
-        Me.LstGPreñadas.Size = New System.Drawing.Size(285, 134)
-        Me.LstGPreñadas.TabIndex = 9
-        Me.LstGPreñadas.TabStop = False
         '
         'GpbGestión
         '
@@ -3584,16 +3584,16 @@ Partial Class frmMenuAdminEstabl
         Me.GpbNuevo.PerformLayout()
         Me.TbpGestion.ResumeLayout(False)
         Me.GpbGAcción.ResumeLayout(False)
-        Me.GpbGOOrdeñe2.ResumeLayout(False)
-        Me.GpbGOOrdeñe2.PerformLayout()
+        Me.PanelGParto.ResumeLayout(False)
+        Me.PanelGParto.PerformLayout()
         Me.GpbGOOrdeñe1.ResumeLayout(False)
         Me.GpbGOOrdeñe1.PerformLayout()
+        Me.GpbGOOrdeñe2.ResumeLayout(False)
+        Me.GpbGOOrdeñe2.PerformLayout()
         Me.PanelGDiagnostico.ResumeLayout(False)
         Me.PanelGDiagnostico.PerformLayout()
         Me.PanelGInsem.ResumeLayout(False)
         Me.PanelGInsem.PerformLayout()
-        Me.PanelGParto.ResumeLayout(False)
-        Me.PanelGParto.PerformLayout()
         Me.GpbGestión.ResumeLayout(False)
         Me.GpbGestión.PerformLayout()
         Me.MspGestión.ResumeLayout(False)

@@ -27,4 +27,8 @@
 
 
     End Sub
+
+    Private Sub PtbVaca_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PtbVaca.Click
+
+    End Sub
 End Class
